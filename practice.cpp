@@ -1,5 +1,5 @@
 // C++ program to implement linear 
-// search in unsorted array     // code copy form GFG
+// search in unsorted array     
 /*#include<bits/stdc++.h>
 using namespace std;
 
