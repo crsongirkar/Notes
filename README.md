@@ -1,2 +1,3 @@
-# My Dsa practice code file 
+# Basic Coding Repo
 # keep learning 
+All Basic C and C++ question.
