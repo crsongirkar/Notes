@@ -20,3 +20,11 @@ int main()
   }
   
 }
+//****************************************************************
+// output:-
+// 5
+// 0 number is prime 
+// 1 number is odd 
+// 2 number is prime 
+// 3 number is odd 
+// 4 number is prime 
