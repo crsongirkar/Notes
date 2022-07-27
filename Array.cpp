@@ -1,5 +1,6 @@
-array basic ; 
-accessing a postion index; 
+// array basic ; 
+// accessing a postion index; 
+// All basic method are coverd 
 
 #include<iostream>
 using namespace std;
