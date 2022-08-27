@@ -1,3 +1,18 @@
+# ➡️Platforms covered:
+<a href="https://leetcode.com/problemset/all/">
+<img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" width=500px>
+</a>
+
+<br>
+<br>
+<br>
+
+<a href="https://practice.geeksforgeeks.org/explore?page=1&sortBy=submissions">
+<img src="https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200817185016/gfg_complete_logo_2x-min.png" width=500px>
+</a>
+
+
+
 <h1> Data Structure & Algorithm </h1>
 <h3>Time_Complexity :- </h3>
 
