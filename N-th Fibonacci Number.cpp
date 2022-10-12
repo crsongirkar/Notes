@@ -1,18 +1,18 @@
-#include<iostream>
+#include<bits/stdc++.h>
 using namespace std;
-int fibb(int n)
+int fibo(int n)
 {
-    if(n==0 or n==1)
-    return n;
+    if(n==1)
+    return 1;
+    if(n==2)
+    return 1;
     
-    return fibb(n-1)+fibb(n-2); // formula 
+    return fibo(n-1)+fibo(n-2);
 }
 int main()
 {
     int n;
     cin>>n;
-    cout<<fibb(n);
+    cout<<fibo(n)<<endl;
 }
-//intput:-5
-//output:- 5
 
