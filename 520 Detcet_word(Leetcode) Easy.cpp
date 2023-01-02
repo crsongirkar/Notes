@@ -1,4 +1,5 @@
-Que :- https://leetcode.com/problems/detect-capital/
+Que :- 
+<link rel="stylesheet" href= "https://leetcode.com/problems/detect-capital/">
 Tag :- Easy , string  
 
 Explanation :- 
