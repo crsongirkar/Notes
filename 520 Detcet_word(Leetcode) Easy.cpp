@@ -1,5 +1,5 @@
 Que :- 
-<link rel="stylesheet" href= "https://leetcode.com/problems/detect-capital/">
+<link rel="problem" href= https://leetcode.com/problems/detect-capital/ >
 Tag :- Easy , string  
 
 Explanation :- 
