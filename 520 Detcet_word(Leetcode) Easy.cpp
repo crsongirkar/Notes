@@ -1,5 +1,7 @@
 Que :- 
+ <head>
 <link href= www.leetcode.com/problems/detect-capital/ >
+ </head>
 Tag :- Easy , string  
 
 Explanation :- 
