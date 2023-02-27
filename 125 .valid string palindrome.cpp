@@ -1,3 +1,5 @@
+// regular method to solve 
+
 #include<bits/stdc++.h>
 using namespace std;
 
@@ -57,5 +59,29 @@ public:
             }
         }
         return 0;
+    }
+};
+// Third Approach
+// Leet Code //
+class Solution {
+public:
+    bool isPalindrome(string s) {
+        string str="";
+        for(int i=0;i<s.size();i++){
+            if(isalnum(s[i])) 
+                str+=tolower(s[i]);
+        }
+        string y=str;
+        reverse(str.begin(),str.end());
+        int i=0;
+        int j=0;
+        while(i<str.size() && j<y.size()){
+            if(str[i]!=y[j]){
+                return false;
+            }
+            i++;
+            j++;
+        }
+        return true;
     }
 };
