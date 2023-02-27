@@ -24,7 +24,7 @@ int main()
     return 0;
     
 }
-// other approch 
+// another approach using two pointer
 class Solution {
 public:
     bool isPalindrome(string s) {
