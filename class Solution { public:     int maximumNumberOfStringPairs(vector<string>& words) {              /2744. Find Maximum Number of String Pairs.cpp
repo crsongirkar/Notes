@@ -1,4 +1,4 @@
-// 2744. Find Maximum Number of String Pairs
+// 2744. Find the Maximum Number of String Pairs
 
 class Solution {
 public:
