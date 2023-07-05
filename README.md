@@ -3,6 +3,7 @@
 <img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" width=350px>
 </a>
 
+[DSA Revision - Google Docs.pdf](https://github.com/crsongirkar/Notes/files/11958065/DSA.Revision.-.Google.Docs.pdf)
 
 <br>
 <br>
