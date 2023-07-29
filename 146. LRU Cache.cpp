@@ -56,7 +56,7 @@ class LRU{
 
 int main()
 {
-    LRU cache(3); // size of chache memeroy 
+    LRU cache(3); // size of cache memeroy 
 
     cache.put(1, 10);
     cache.put(2, 20);
