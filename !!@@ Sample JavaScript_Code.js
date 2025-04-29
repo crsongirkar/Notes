@@ -99,7 +99,41 @@ function SandB(){
     let profit = Maxx - Minn;
     console.log("Profit is ",profit);
 }
-//zSandB();
+//SandB();
+
+
+// counter
+function makeCounter(initialValue = 0) {
+    let count = initialValue;
+
+    return {
+        increment: function() {
+            count++;
+            console.log(count);
+        },
+        decrement: function() {
+            count--;
+            console.log(count);
+        },
+        rest: function(){
+            count = initialValue;
+            console.log(count);
+        }
+    };
+}
+
+const counter = makeCounter(5); 
+
+counter.increment();
+counter.increment();
+counter.increment();
+counter.rest();
+counter.increment();
+counter.increment();
+counter.increment(); 
+counter.decrement(); 
+counter.decrement(); 
+counter.rest();
 
 
 
